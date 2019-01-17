@@ -1,0 +1,4 @@
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Release\RecogCaptcha.csprojResolveAssemblyReference.cache
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Release\RecogCaptcha.Form1.resources
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Release\RecogCaptcha.Properties.Resources.resources
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Release\RecogCaptcha.csproj.GenerateResource.Cache

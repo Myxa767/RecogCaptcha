@@ -1,0 +1,55 @@
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\Tesseract.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\AForge.Math.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csprojResolveAssemblyReference.cache
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.Cache
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+C:\Projetos\RecogCaptcha\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\libtesseract302.dll
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+C:\Projetos\RecogCaptcha\RecogCaptcha\bin\Debug\liblept168.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\liblept168.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\libtesseract302.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Math.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.csprojResolveAssemblyReference.cache
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.Cache
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\x86\liblept1753.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\x86\libtesseract3052.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\x64\liblept1753.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\x64\libtesseract3052.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\Tesseract.dll
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.xml
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Imaging.xml
+C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Math.xml
