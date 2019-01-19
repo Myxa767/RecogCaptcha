@@ -47,7 +47,10 @@ namespace RecogCaptcha
             GaussianSharpen gs = new GaussianSharpen();
             ContrastCorrection cc = new ContrastCorrection();
             bc.MinHeight = 10;
-            FiltersSequence seq = new FiltersSequence(gs, inverter, open, inverter, bc, inverter, open, cc, cor, bc, inverter);
+            GrayscaleRMY gray = new GrayscaleRMY();
+            Threshold thr = new Threshold(200);
+            Difference diff = new Difference(dilatation.Apply(imagem));
+            FiltersSequence seq = new FiltersSequence(diff, inverter, erosion, gray, thr, cc);
             pictureBox.Image = seq.Apply(imagem);
             string reconhecido = OCR((Bitmap)pictureBox.Image);
             return reconhecido;

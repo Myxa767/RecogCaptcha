@@ -53,3 +53,34 @@ C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\Tesseract.dll
 C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.xml
 C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Imaging.xml
 C:\MyFolder\Solving Captchas\C#\RecogCaptcha\bin\Debug\AForge.Math.xml
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe.config
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.exe
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.pdb
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\x86\liblept1753.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\x86\libtesseract3052.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\x64\liblept1753.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\x64\libtesseract3052.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\liblept168.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\libtesseract302.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.bigrams
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.fold
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.lm
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.nn
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.params
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.size
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.cube.word-freq
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.tesseract_cube.nn
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\tessdata\eng.traineddata
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\RecogCaptcha.exe
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\RecogCaptcha.pdb
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.Imaging.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.Math.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\Tesseract.dll
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.xml
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.Imaging.xml
+D:\Proj\Captcha\RecogCaptcha\bin\Debug\AForge.Math.xml
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.csprojResolveAssemblyReference.cache
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.Form1.resources
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.Properties.Resources.resources
+D:\Proj\Captcha\RecogCaptcha\obj\Debug\RecogCaptcha.csproj.GenerateResource.Cache
